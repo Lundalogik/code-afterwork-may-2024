@@ -1,21 +1,19 @@
 # Coastal Calamity
 
-## TLDR
+## Background story
 
-In this puzzle, you navigate to a hidden tropical island floating in the air while exploring a vibrant coral reef. Using a washed-up windsurf board, you plan to ascend to a cloud island to gather materials for repairing storm-damaged lighthouses. While waiting, you take environmental readings with your Coral And Reef Instability Sensor (CRIS) to predict and report potential changes in the reef's ecosystem. This data will help in conserving this delicate environment for future adventurers.
+You kayak through a bright coral reef and stop at a spot marked "X" on ancient sailor maps. At midday, you see a hidden island floating in the sky!
+
+You rest on a sandbar, drinking water and resting. Above you, there's a large island in the clouds, likely holding materials needed for repairing storm-damaged lighthouses.
+
+A windsurf board nearby might help you reach the island as the wind gets stronger.
+
+While waiting, you explore an underwater grove within the reef, considering its need for monitoring to help conservation efforts.
 
 ![image](https://github.com/Lundalogik/code-afterwork-may-2024/assets/5849797/ea2235df-d4a3-4eb0-9732-f37121125780)
 
 
 ## Part 1
-
-You paddle your kayak through the vibrant coral reef and stop  the spot where the old sailor's maps marked as "X". As the sun reaches its zenith, you can see clearer than ever, revealing a hidden tropical island floating in the air!
-
-Your kayak rests gently on a small sandbar while you hydrate and catch your breath. Looking upward, you notice what appears to be a gigantic floating island made of clouds! This must be where the materials to repair the storm-damaged lighthouses are found.
-
-A windsurf board washed up nearby catches your attention; as the afternoon wind picks up, you could potentially use it to sail up to the cloud island!
-
-While waiting for the perfect wind, you explore the nearby underwater grove hidden within the coral reef. This delicate ecosystem might need some monitoring; perhaps you can take some readings and identify any environmental changes. Such data could be crucial for conservation efforts to ensure this paradise remains unspoiled for future adventurers.
 
 You pull out your handy Coral And Reef Instability Sensor (CRIS) to assess your surroundings. CRIS produces a report with numerous data points and their variations over time (your puzzle input). Each line in the report outlines the history of a specific environmental value. For example:
 
