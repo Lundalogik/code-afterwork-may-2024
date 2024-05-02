@@ -4,16 +4,25 @@
 
 You kayak through a bright coral reef and stop at a spot marked "X" on ancient sailor maps. At midday, you see a hidden island floating in the sky!
 
+![image](https://github.com/Lundalogik/code-afterwork-may-2024/assets/5849797/5832eed2-0a5a-4441-8782-5e16a4260859)
+
+
 You rest on a sandbar, drinking water and resting. Above you, there's a large island in the clouds, likely holding materials needed for repairing storm-damaged lighthouses.
+
+![image](https://github.com/Lundalogik/code-afterwork-may-2024/assets/5849797/40ee951c-28fd-4554-9b26-d9f7fd25e125)
+
 
 A windsurf board nearby might help you reach the island as the wind gets stronger.
 
 While waiting, you explore an underwater grove within the reef, considering its need for monitoring to help conservation efforts.
 
-![image](https://github.com/Lundalogik/code-afterwork-may-2024/assets/5849797/ea2235df-d4a3-4eb0-9732-f37121125780)
+![image](https://github.com/Lundalogik/code-afterwork-may-2024/assets/5849797/987becca-cbc3-4b89-ae91-b3b31d7837b6)
 
 
 ## Part 1
+
+![image](https://github.com/Lundalogik/code-afterwork-may-2024/assets/5849797/0179b7ab-1e96-4351-9bf8-45f619b914d6)
+
 
 You pull out your handy Coral And Reef Instability Sensor (CRIS) to assess your surroundings. CRIS produces a report with numerous data points and their variations over time (your puzzle input). Each line in the report outlines the history of a specific environmental value. For example:
 
