@@ -326,5 +326,5 @@ Analyze your report again, this time extrapolating the previous value for each h
 
 ## Solution
 
- * **Part 1:**: `1702218515`
+ * **Part 1**: `1702218515`
  * **Part 2**: `925`
